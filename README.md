@@ -1,1 +1,1 @@
-إنشاء موقع ويب بسيط لإدارة قائمة المهام (To-Do List) يتضمن Backend باستخدام PostgreSQL واستضافته باستخدام Nginx مع تحويله إلى HTTPS باستخدام SSL
+Assignment 3: Systems Maintenance Course: Creating a simple website to manage your to-do list, including a backend using PostgreSQL and hosting it using Nginx, converting it to HTTPS using SSL. Completed in 2024.
